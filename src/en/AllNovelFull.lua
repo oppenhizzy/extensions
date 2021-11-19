@@ -1,8 +1,8 @@
 -- {"id":1,"ver":"2.0.1","libVer":"1.0.0","author":"TechnoJo4","dep":["NovelFull>=2.0.2"]}
 
-return Require("NovelFull")("http://novelfull.com", {
+return Require("NovelFull")("http://allnovelfull.com", {
 	id = 1,
-	name = "NovelFull",
+	name = "AllNovelFull",
 	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/icons/NovelFull.png",
 	
 	meta_offset = 0,
